@@ -1,111 +1,78 @@
-<a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
 <div align="center">
-  <a href="https://github.com/volkan-khaldarova/Fundamentals-of-CSS">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Fundamentals of CSS</h3>
+# 🎨 Fundamentals of CSS
 
-  <p align="center">
-    Codecademy CSS kursu kapsamında geliştirilen projeler koleksiyonu.
-    <br />
-    <a href="https://github.com/volkan-khaldarova/Fundamentals-of-CSS"><strong>Belgeleri İncele »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/volkan-khaldarova/Fundamentals-of-CSS">Demoyu Görüntüle</a>
-    ·
-    <a href="https://github.com/volkan-khaldarova/Fundamentals-of-CSS/issues">Hata Bildir</a>
-    ·
-    <a href="https://github.com/volkan-khaldarova/Fundamentals-of-CSS/issues">Özellik İste</a>
-  </p>
+**A collection of practical exercises and Codecademy projects completed during my CSS learning journey.**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-Completed-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Educational-yellow?style=for-the-badge)
+
+[Projects](#-project-list) • [Installation](#-installation--usage) • [Author](#-author)
+
 </div>
 
-<details>
-  <summary>📝 İçindekiler</summary>
-  <ol>
-    <li>
-      <a href="#proje-hakkında">Proje Hakkında</a>
-      <ul>
-        <li><a href="#kullanılan-teknolojiler">Kullanılan Teknolojiler</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#başlarken">Başlarken</a>
-      <ul>
-        <li><a href="#kurulum">Kurulum</a></li>
-      </ul>
-    </li>
-    <li><a href="#kullanım">Kullanım</a></li>
-    <li><a href="#lisans">Lisans</a></li>
-    <li><a href="#iletişim">İletişim</a></li>
-  </ol>
-</details>
-
 ---
 
-## 🚀 Proje Hakkında
+## 📖 About The Project
 
-Bu repo, **Codecademy** platformunda aldığım CSS eğitimi süresince tamamladığım pratikleri ve projeleri içermektedir. Modern web tasarımının temellerini (Box Model, Flexbox, Grid, Responsive Design) pekiştirmek amacıyla oluşturulmuştur.
+This repository serves as a portfolio of my progression in Front-End development, specifically focusing on mastering **CSS** (Cascading Style Sheets). The majority of the content here follows the **Codecademy** curriculum and includes various projects coded to reinforce visual design and layout concepts.
 
-Her bir klasör, belirli bir CSS konseptini veya tam sayfa tasarımını içeren bağımsız bir projeyi temsil eder.
+By exploring this repository, developers or recruiters can observe:
+* Understanding of the **Box Model** and positioning.
+* Implementation of modern layouts using **Flexbox** and **Grid**.
+* **Responsive Design** principles for different screen sizes.
+* Clean and organized CSS code structure.
 
-### 🎯 Amaç
-* HTML ve CSS söz dizimine (syntax) hakim olmak.
-* Statik tasarımları koda dökmek.
-* Responsive (duyarlı) tasarım prensiplerini uygulamak.
+## 🛠️ Built With
 
-### 🛠 Kullanılan Teknolojiler
+These projects are built using the core technologies of web styling:
 
-Bu projeler aşağıdaki teknolojiler kullanılarak oluşturulmuştur:
+* **HTML5:** Semantic structure to support CSS selectors.
+* **CSS3:** Styling, typography, colors, and advanced layout techniques (Flexbox/Grid).
 
-* [![HTML5][HTML5-badge]][HTML5-url]
-* [![CSS3][CSS3-badge]][CSS3-url]
+## 📂 Project List
 
-<p align="right">(<a href="#readme-top">başa dön</a>)</p>
+This repo consists of independent projects, each located in its own folder. Below are some highlighted works found within the directory:
 
----
+| Project Folder | Description | Key Concepts |
+| :--- | :--- | :--- |
+| `01-Project-Name` | *(Example: Fashion Broadway)* | Typography & Colors |
+| `02-Project-Name` | *(Example: Healthy Recipes)* | CSS Box Model & Margins |
+| `03-Project-Name` | *(Example: Olivia Woodruff Portfolio)* | Flexbox & Responsive Layout |
+| `...` | *More projects...* | ... |
 
-## ⚡ Başlarken
+*(Note: Folder names correspond to the specific exercises found in the root directory.)*
 
-Projeleri yerel ortamınızda görüntülemek için aşağıdaki adımları takip edebilirsiniz. Herhangi bir paket yöneticisi (npm, yarn) veya karmaşık kurulum gerekmez.
+## 💻 Installation & Usage
 
-### 📥 Kurulum
+Since these are static web pages, they do not require any package managers (npm, yarn, etc.) or complex installation steps.
 
-1.  Repoyu klonlayın:
-    ```sh
+1.  **Clone the Repository:**
+    ```bash
     git clone [https://github.com/volkan-khaldarova/Fundamentals-of-CSS.git](https://github.com/volkan-khaldarova/Fundamentals-of-CSS.git)
     ```
-2.  Proje klasörüne gidin:
-    ```sh
-    cd Fundamentals-of-CSS
-    ```
 
-<p align="right">(<a href="#readme-top">başa dön</a>)</p>
+2.  **Navigate to the Folder:**
+    Open the repository folder in your terminal or file explorer.
+
+3.  **Run a Project:**
+    Each project folder contains its own `index.html` file. Simply open this file in your favorite browser (Chrome, Firefox, etc.) to view the result.
+    * You can double-click the file, or;
+    * If you are using VS Code, you can use the "Live Server" extension and click `Go Live`.
+
+## 🔗 Resources & Acknowledgements
+
+Many of these projects were completed as part of the **[Codecademy](https://www.codecademy.com/)** CSS courses. They serve as educational material and solutions to coding challenges. The code represents the personal output of my learning process.
+
+## 👤 Author
+
+**Volkan Khaldarova**
+
+* GitHub: [@volkan-khaldarova](https://github.com/volkan-khaldarova)
 
 ---
-
-## 🖥 Kullanım
-
-Repo içerisindeki projeler klasörlere ayrılmıştır. İncelemek istediğiniz projenin klasörüne giderek `index.html` dosyasını tarayıcınızda açmanız yeterlidir.
-
-**Örnek Klasör Yapısı:**
-
-```text
-Fundamentals-of-CSS/
-├── Project-1-Fashion-Blog/
-│   ├── index.html
-│   └── style.css
-├── Project-2-Tea-Shop/
-│   ├── index.html
-│   ├── style.css
-│   └── resources/
-└── README.md
+<div align="center">
+⭐️ If you find this project useful or want to support my learning journey, don't forget to give it a star!
+</div>
